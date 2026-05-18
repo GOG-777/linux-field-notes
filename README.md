@@ -53,15 +53,12 @@ All fixes in this repository were developed and tested on the following setup. R
 
 | Document | Description |
 |----------|-------------|
-| [Plasma Wayland Black Screen on Intel GPU](kde-plasma/wayland-black-screen-intel.md) | Coming soon |
+| [Plasma Wayland Black Screen on Intel GPU](kde-plasma/wayland-black-screen-intel.md) | Covers corrupted KWin config, Intel PSR bug, wrong DRM device on cold boot, and SDDM session defaults. |
 
 ---
 
 ## How Each Document Is Structured
 
-Every entry in this repository follows the same structure so that the information is easy to scan and act on.
-
-- **The Problem** - A plain description of what went wrong
 - **Symptoms** - Exact error messages, commands that failed, and observable behavior
 - **Root Cause** - The actual reason it broke, not just the surface-level fix
 - **The Fix** - Step-by-step commands with explanations for what each one does
