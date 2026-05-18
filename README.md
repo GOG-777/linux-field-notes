@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://endeavouros.com/wp-content/uploads/2021/03/endeavouros-icon.png" width="80" />
-
 # Linux Field Notes
 
 **Real-world Linux troubleshooting documentation.**
